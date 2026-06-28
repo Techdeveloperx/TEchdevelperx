@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Manisha</h1>
-<h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Software Engineer</h3>
+<h3 align="center">B.Tech CSE (AI & DE) Student | Aspiring Software Engineer</h3>
+
 
 ---
 
 ### 👩‍💻 About Me
-
 - 🎓 B.Tech CSE (AI & ML) Student
 - 🌱 Currently learning Java, Python, SQL & Web Development
-- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🤖 Interested in Artificial Intelligence 
 - 💡 Passionate about Problem Solving and Software Development
 - 🚀 Building projects to enhance my technical skills
 
 ---
 
 ### 🛠️ Tech Stack
-
+![Snake animation](https://github.com/Techdevelperx/Techdevelperx/blob/output/github-contribution-grid-snake.svg)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
